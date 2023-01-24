@@ -1,7 +1,7 @@
 formatter: "markdown table"
 
 sections:
-  show:
+ show:
     - requirements
     - providers
     - inputs
